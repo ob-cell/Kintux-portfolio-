@@ -40,6 +40,15 @@ body {
     text-align: center;
     font-size: medium;
     color: #797979;
+    word-wrap: normal;
+    white-space: pre;
+}
+
+.ASCII-container {
+    width: 100vw; 
+    overflow-x: auto; 
+    padding: 10px; 
+    box-sizing: border-box; 
 }
 
 .sidebar {
