@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(32, 33, 28);
+    font-family: 'DejaVu Sans Mono';
+    text-align: center;
+    color :#a6a28c;
+}
+
+/* mostly text styling  */
+.title {
+    color : #e8e4cf;
+    font-family: 'DejaVu Sans Mono';
+    font-size:"large";
+}
+
+.text {
+    color :#a6a28c;
+    font-family: 'DejaVu Sans Mono';
+    font-size: small;
+}
+.textline {
+    color :#a6a28c;
+    font-family: 'DejaVu Sans Mono';
+    font-size: small;
+    text-decoration: underline;
+}
+.highlight {
+    color : #e8e4cf;
+    font-family: 'DejaVu Sans Mono';
+    font-size: small;
+}
+.highlightlink {
+    color : #f8f3da;
+    font-family: 'DejaVu Sans Mono';
+    text-decoration: underline;
+    font-size: small;
+}
+
+.ASCII {
+    text-align: center;
+    font-size: medium;
+    color: #797979;
+}
+
+.sidebar {
+padding-inline-start: 20px;
+}
