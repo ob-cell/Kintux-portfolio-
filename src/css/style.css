@@ -47,6 +47,6 @@ padding-inline-start: 20px;
 /* media comptability for phones */
 @media (min-width: 360px) {
     pre {
-    font-size: 7px;
+    font-size: 4px;
     }   
 }
