@@ -3,6 +3,7 @@ body {
     font-family: 'DejaVu Sans Mono';
     text-align: center;
     color :#a6a28c;
+    overflow-y: scroll;
 }
 
 /* mostly text styling  */
@@ -44,9 +45,9 @@ body {
 .sidebar {
 padding-inline-start: 20px;
 }
-/* media comptability for phones */
-@media (min-width: 360px) {
-    pre {
-    font-size: 4px;
+/* media compatibility for phones */
+@media (max-width: 768px) {
+    .ASCII {
+        font-size: small;
     }   
 }
