@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(32, 33, 28);
+    background-color: #17191a;
     font-family: 'DejaVu Sans Mono';
     text-align: center;
-    color :#a6a28c;
+    color :#748485;
     overflow-y: scroll;
 }
 
@@ -14,23 +14,23 @@ body {
 }
 
 .text {
-    color :#a6a28c;
+    color :#748485;
     font-family: 'DejaVu Sans Mono';
     font-size: small;
 }
 .textline {
-    color :#a6a28c;
+    color :#bad9db;
     font-family: 'DejaVu Sans Mono';
     font-size: small;
     text-decoration: underline;
 }
 .highlight {
-    color : #e8e4cf;
+    color : #c8e2e4;
     font-family: 'DejaVu Sans Mono';
     font-size: small;
 }
 .highlightlink {
-    color : #f8f3da;
+    color : #c8e2e4;
     font-family: 'DejaVu Sans Mono';
     text-decoration: underline;
     font-size: small;
@@ -39,7 +39,7 @@ body {
 .ASCII {
     text-align: center;
     font-size: 70%;
-    color: #797979;
+    color: #9cafb1;
     word-wrap: normal;
     white-space: pre;
 }
