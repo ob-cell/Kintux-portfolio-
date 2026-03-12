@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
-body {
+html, body {
     background-color: #17191a;
     font-family: 'DejaVu Sans Mono';
     text-align: center;
     color :#748485;
     overflow-y: scroll;
+    cursor: url(../img/cursor.cur), auto;
 }
 
 /* mostly text styling  */
@@ -32,6 +33,7 @@ body {
     font-size: small;
 }
 .highlightlink {
+    cursor: url(../img/select.cur), auto;
     color : #c8e2e4;
     font-family: 'DejaVu Sans Mono';
     text-decoration: underline;
@@ -57,3 +59,7 @@ padding-inline-start: 20px;
         font-size: 55%;
     }   
 }
+
+
+/* All cursors were made by the very talented Wobb! check their work on twitter : https://x.com/wobbuuu and support them on https://ko-fi.com/C0C6L5X66*/
+
