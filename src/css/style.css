@@ -16,31 +16,36 @@ html, body {
 .title {
     color : #e8e4cf;
     font-family: 'DejaVu Sans Mono';
-    font-size:"large";
+    font-size:"medium";
 }
 
 .text {
     color :#748485;
     font-family: 'DejaVu Sans Mono';
-    font-size: small;
+    font-size: medium;
+}
+.caption {
+    color :#748485;
+    font-family: 'DejaVu Sans Mono';
+    font-size: medium;
 }
 .textline {
     color :#bad9db;
     font-family: 'DejaVu Sans Mono';
-    font-size: small;
+    font-size: medium;
     text-decoration: underline;
 }
 .highlight {
     color : #c8e2e4;
     font-family: 'DejaVu Sans Mono';
-    font-size: small;
+    font-size: medium;
 }
 .highlightlink {
     cursor: url(../img/select.cur), auto;
     color : #c8e2e4;
     font-family: 'DejaVu Sans Mono';
     text-decoration: underline;
-    font-size: small;
+    font-size: medium;
 }
 /* logo stuff */
 .logo-container {
